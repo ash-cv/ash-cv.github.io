@@ -5,12 +5,11 @@ excerpt: "About me"
 ---
 {% include base_path %}
 
-I am a PhD student in the Department of Computational & Data Sciences at the Indian Institute of Science Bangalore. Prior to this, I have worked as a Data Scientist in IBM India Pvt. Ltd after completing my Masters in Computer Science & Engineering from Indian Institute of Technology, Kharagpur.
+I am an undergraduate student in the Department of Electrical & Electronics Engineering at Manipal Institute of Technology. While my major is EEE, my professional focus has shifted entirely toward Computational Sciences and Artificial Intelligence.
 
-During my stay in IBM, I have worked on a question answering project which would read a corpus, accept questions from the user on the corpus, and output point answers. I have also worked on other NLP projects in my leisure hours, like sentiment classification.
+Currently, I am deep-diving into Computer Vision and Deep Learning. I am actively working on replicating complex architectures.To support this research, I am rigorously building my mathematical foundations through advanced Python implementation.
 
-As a novice PhD student working with [Prof. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/), I am presently learning the basics of Machine Learning and Deep Learning for Computer Vision and hope to make significant contributions to the same. I am associated with the wonderful group of people (and researchers) at [VAL Lab](https://val.cds.iisc.ac.in/).
+I aim to bridge the gap between Electrical systems and modern AI applications, potentially for the industrial sector. I also spend my downtime studying the cultural and industrial landscapes of the US (specifically the Bay Area and Texas) to prepare for my future ventures.
 
-Academics takes up most of time. However, listening to the music of the good old days (especially Hindi and Bengali music of 50s to 90s 
-) is one of my favourite past times. 
-For more of my academic projects check out my [GitHub](https://github.com/abhipsabasu/) page.
+For more of my code and paper replications, check out my GitHub page.
+For more of my academic projects check out my [GitHub](https://github.com/ash-cv/) page.

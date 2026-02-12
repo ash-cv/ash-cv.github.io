@@ -11,6 +11,4 @@ redirect_from:
 
 Recent Projects
 ======
-* The [TextKVQA project](https://github.com/abhipsabasu/TextKVQA) (DLCV Course Work)
-* [Sentiment Classification](https://github.com/abhipsabasu/Pytorch_sentiment_analysis) in Pytorch
-* [Google Quest](https://github.com/abhipsabasu/Google-QUEST-Q-A-Labeling) Challenge
+* Coming Soon ....

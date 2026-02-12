@@ -9,21 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-IISC Bangalore
+Manipal Institute of Technology
 ======
-* Ongoing
+* Completed
   - Advanced Deep Learning
   - Optimization in Machine Learning and Data Science
   - Stochastic Models and Applications
   - Digital Signal Processing
-* Completed
-  - Machine Learning in Signal Processing
-  - Detection and Estimation Theory
   - Data Structures and Algorithms
-
-IIT Bombay (Relevant)
-======
-- Applied Linear Algebra
-- Matrix Computations
-- Statistical Signal Analysis
-- Foundations of Machine Learning
+  - Applied Linear Algebra
+  - Matrix Computations
+  - Foundations of Machine Learning
+  - Computer Vision in Deep Learning
+  - Advanced Probablity
